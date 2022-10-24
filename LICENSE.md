@@ -10,6 +10,6 @@ View your purchased licenses here: <https://startbootstrap.com/account/invoices>
 
 This file must remain in your project.
 
-Please add your Order ID to this file here -> [ 4100e1d5-48f6-49f2-ab24-a08e9dd09ecf ]
+Please add your Order ID to this file here -> [4100e1d5-48f6-49f2-ab24-a08e9dd09ecf]
 
 __Copyright &copy; 2021 Start Bootstrap &trade; ALL RIGHTS RESERVED__
