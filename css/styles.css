@@ -5780,6 +5780,15 @@ textarea.form-control-lg {
 .navbar-img{
   width:3rem;
 }
+
+@media (max-width: 798){
+  .navbar-img{
+    width:1rem;
+  }
+
+}
+
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
